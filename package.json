@@ -1,0 +1,28 @@
+{
+  "name": "assignment_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivineettiwari/assignment_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivineettiwari/assignment_node/issues"
+  },
+  "homepage": "https://github.com/ivineettiwari/assignment_node#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.0",
+    "express-session": "^1.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15"
+  }
+}
